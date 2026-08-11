@@ -1,4 +1,4 @@
-# [https://mini-erp-crm-coral.vercel.app/](Mini ERP + CRM Operations Portal)
+# [Mini ERP + CRM Operations Portal](https://mini-erp-crm-coral.vercel.app/)
 
 A small ERP/CRM system for a wholesale/distribution company, built as a Full Stack Developer case study.
 It covers customers (CRM), products & inventory, and sales challans with real stock-deduction business logic,
